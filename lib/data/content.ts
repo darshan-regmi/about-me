@@ -306,12 +306,11 @@ export const randomFactsData = {
 };
 
 export const contactData = {
-  email: 'darshan@example.com',
+  email: 'darshanregmi.official@gmail.com',
   socials: [
-    { name: 'GitHub', handle: '@darshan', url: 'https://github.com/darshan' },
-    { name: 'Twitter', handle: '@darshan', url: 'https://twitter.com/darshan' },
-    { name: 'LinkedIn', handle: 'Darshan', url: 'https://linkedin.com/in/darshan' },
-    { name: 'Instagram', handle: '@darshan', url: 'https://instagram.com/darshan' },
+    { name: 'GitHub', handle: '@darshan-regmi', url: 'https://github.com/darshan-regmi' },
+    { name: 'LinkedIn', handle: 'darshan-regmi', url: 'https://linkedin.com/in/darshan-regmi' },
+    { name: 'Instagram', handle: '@_darshan_regmi', url: 'https://instagram.com/_darshan_regmi' },
   ],
   availability: 'Open to interesting conversations and collaborations.',
 };
